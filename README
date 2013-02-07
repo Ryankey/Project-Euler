@@ -1,0 +1,13 @@
+Project Euler Solutions
+
+Ryan Keyes
+ryankey721@gmail.com
+
+Just simple Project Euler solutions from projecteuler.net
+
+Problems are sorted much like a stem and leaf plot, with folders for ones digits
+contianed in folders for tens digits, etc.
+
+Each folder then has folders for each language I've solved the problem with (usually trivial reworkings to learn new languages)
+
+
